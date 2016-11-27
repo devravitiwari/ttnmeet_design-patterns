@@ -1,0 +1,13 @@
+body {
+    width: 800px;
+    margin: 50px 100px;
+}
+
+
+li {
+    margin: 5px;
+}
+
+a {
+    text-decoration: none;
+}
